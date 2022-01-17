@@ -1,6 +1,2 @@
 My First Test File
-I Will edit it and Commit for the First time.
-Adding next line after first Commit
-
-
-Adding New Changes for Discard Commit
+I Will edit it and Commit for the First time.git
